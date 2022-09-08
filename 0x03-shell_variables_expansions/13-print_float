@@ -1,0 +1,3 @@
+#!/bin/bash
+let var = 12.34567
+echo (round($var,2)) | '\n'
